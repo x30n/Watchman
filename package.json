@@ -1,0 +1,23 @@
+{
+  "name": "Watchman",
+  "version": "1.0.0",
+  "description": "Confirm user's intention to perform sensitive actions out of band",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x30n/Watchman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x30n/Watchman/issues"
+  },
+  "homepage": "https://github.com/x30n/Watchman#readme",
+  "dependencies": {
+    "winston": "^2.2.0"
+  }
+}
