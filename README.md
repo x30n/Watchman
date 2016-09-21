@@ -1,6 +1,10 @@
 # Watchman
 Confirm user's intention to perform sensitive actions out of band
 
+Currently meant to run in AWS lambda and use Duo security as out-of-band confirmation
+
+# NOT PRODUCTION READY... THIS IS AN EXPERIMENT FOR NOW!
+
 # Install
 *untested... still in dev*
 
